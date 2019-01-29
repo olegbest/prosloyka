@@ -1,0 +1,8 @@
+{
+  "routes": [
+    {
+      "path": "/hi",
+      "redirect": "http://localhost:5013/"
+    }
+  ]
+}
